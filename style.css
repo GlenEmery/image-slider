@@ -9,11 +9,12 @@ body {
     align-items: center;
     justify-content: center;
     min-height: 100vh;
+    
 }
 
 .container {
     position: relative;
-    width: 30vh;
+    width: 50vh;
     height: 80vh;
     
 }
@@ -44,6 +45,6 @@ img {
     top: 0%;
     left: 50%;
     pointer-events: none;
-    transform: translate(-50%, 0%);
+    transform: translate(-50%, 0);
     
 }
